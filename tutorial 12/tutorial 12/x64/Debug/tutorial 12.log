@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\main.cpp(104,49): warning C4305: аргумент: усечение из "double" в "float"
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\main.cpp(137,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  pipeline.cpp
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\pipeline.cpp(33,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\pipeline.cpp(33,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\pipeline.cpp(34,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\pipeline.cpp(34,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\pipeline.cpp(35,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\pipeline.cpp(35,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\pipeline.cpp(69,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  tutorial 12.vcxproj -> D:\1\dev2\project\lab2\tutorial 12\x64\Debug\tutorial 12.exe

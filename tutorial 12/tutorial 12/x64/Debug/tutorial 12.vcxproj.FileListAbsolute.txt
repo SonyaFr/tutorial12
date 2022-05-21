@@ -1,0 +1,2 @@
+C:\dev2\project\lab2\tutorial 12\tutorial 12\x64\Debug\tutorial 12.vcxproj.CopyComplete
+D:\1\dev2\project\lab2\tutorial 12\tutorial 12\x64\Debug\tutorial 12.vcxproj.CopyComplete
